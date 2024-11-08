@@ -23,3 +23,8 @@ DesertCrabPlatformer/Saved/AutoScreenshot.png
 DesertCrabPlatformer/Saved/Config/CrashReportClient/UECC-Windows-37981FF3411BE24636DA2C8E84E0CB99/CrashReportClient.ini
 DesertCrabPlatformer/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 DesertCrabPlatformer/Saved/Logs/DesertCrabPlatformer.log
+*.ini
+DesertCrabPlatformer/Saved/AutoScreenshot.png
+*.bin
+*.log
+*.json
