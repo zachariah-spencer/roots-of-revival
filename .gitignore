@@ -49,3 +49,7 @@ DesertCrabPlatformer/Saved/AutoScreenshot.png
 *.ini
 *.log
 *.json
+*.log
+*.ini
+*.png
+*.bin
