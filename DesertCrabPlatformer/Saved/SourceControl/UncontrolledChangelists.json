@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Matt/Documents/GitHub/3d-platformer-kiwis/DesertCrabPlatformer/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Matt/Documents/GitHub/3d-platformer-kiwis/DesertCrabPlatformer/Content/Maps/MainMenu.umap",
+				"C:/Users/Matt/Documents/GitHub/3d-platformer-kiwis/DesertCrabPlatformer/Content/Maps/Level_01.umap",
 				"C:/Users/markw/OneDrive/Documents/GitHub/3d-platformer-kiwis/DesertCrabPlatformer/Content/Characters/PlantSpiderCharacter/PlantSpiderRig.uasset",
 				"C:/Users/markw/OneDrive/Documents/GitHub/3d-platformer-kiwis/DesertCrabPlatformer/Content/Characters/PlantSpiderCharacter/PlantSpiderRig_PhysicsAsset.uasset",
 				"C:/Users/markw/OneDrive/Documents/GitHub/3d-platformer-kiwis/DesertCrabPlatformer/Content/Characters/PlantSpiderCharacter/PlantSpiderRig_Skeleton.uasset",
