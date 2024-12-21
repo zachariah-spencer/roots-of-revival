@@ -1,11 +1,5 @@
-Idle
-IF move WASD then Walking
-IF jump then Jumping
-IF C pressed near facing wall then Climbing
 
-
-Walking
-IF velocity reaches 0 then Idle
+Moving
 IF jump then Jumping
 IF C pressed near facing wall then Climbing
 
