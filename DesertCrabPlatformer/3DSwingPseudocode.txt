@@ -1,0 +1,11 @@
+u-> . v-> = 0
+
+where u is the opposing point of the player in an arc
+
+
+
+ax+by+cz = 0
+
+for u-> = (m,n,l)
+
+m(x) + n(y) + l(z) = 0
