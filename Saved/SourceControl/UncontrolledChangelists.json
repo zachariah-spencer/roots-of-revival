@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/vicme/Downloads/roots-of-revival-main/roots-of-revival-main/DesertCrabPlatformer/Content/UI/Settings_WBP.uasset",
+				"C:/Users/vicme/Downloads/roots-of-revival-main/roots-of-revival-main/DesertCrabPlatformer/Content/UI/Pause_WBP.uasset",
+				"C:/Users/vicme/Downloads/roots-of-revival-main/roots-of-revival-main/DesertCrabPlatformer/Content/UI/Options_WBP.uasset",
+				"C:/Users/vicme/Downloads/roots-of-revival-main/roots-of-revival-main/DesertCrabPlatformer/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/vicme/Downloads/roots-of-revival-main/roots-of-revival-main/DesertCrabPlatformer/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/vicme/Downloads/roots-of-revival-main/roots-of-revival-main/DesertCrabPlatformer/Content/ThirdPerson/Blueprints/Components/BPC_Dash.uasset",
+				"C:/Users/vicme/Downloads/roots-of-revival-main/roots-of-revival-main/DesertCrabPlatformer/Content/FX/FX_Dash.uasset",
+				"C:/Users/vicme/Downloads/roots-of-revival-main/roots-of-revival-main/DesertCrabPlatformer/Content/FX/FX_Speed.uasset",
+				"C:/Users/vicme/Downloads/roots-of-revival-main/roots-of-revival-main/DesertCrabPlatformer/Content/Maps/Level_02.umap",
+				"C:/Users/vicme/Downloads/roots-of-revival-main/roots-of-revival-main/DesertCrabPlatformer/Content/Characters/PlantSpiderCharacter/AnimationSequences/Walk.uasset"
+			]
+		}
+	]
+}
